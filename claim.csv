@@ -1,0 +1,301 @@
+﻿Claim #,Claim Date,Cleared Date,Policy Type,Claim Amount,Claim Status
+1001,12/23/2024,1/10/2025,Health Insurance,35000,Accepted
+1001,2/27/2025,3/12/2025,Property Insurance,35000,Denied
+1006,12/15/2024,12/28/2024,Life Insurance,27500,Denied
+1006,1/7/2025,1/27/2025,Health Insurance,27500,Accepted
+1011,11/20/2024,12/1/2024,Casualty Insurance,39000,Accepted
+1011,1/25/2025,2/19/2025,Casualty Insurance,39000,Accepted
+1016,1/26/2025,2/13/2025,Property Insurance,52500,Accepted
+1016,3/26/2025,4/3/2025,Health Insurance,52500,In Progress
+1021,2/9/2025,2/16/2025,Casualty Insurance,55000,In Progress
+1021,3/16/2025,3/26/2025,Casualty Insurance,55000,In Progress
+1026,1/5/2025,1/28/2025,Health Insurance,15000,Accepted
+1026,1/26/2025,2/16/2025,Health Insurance,15000,Accepted
+1031,11/7/2024,11/24/2024,ReInsurance,45000,In Progress
+1031,1/20/2025,2/5/2025,Life Insurance,45000,In Progress
+1036,3/10/2025,3/14/2025,Casualty Insurance,40000,In Progress
+1036,3/17/2025,4/8/2025,ReInsurance,40000,In Progress
+1041,11/4/2024,11/19/2024,Auto Insurance,27500,Accepted
+1041,4/15/2025,4/17/2025,Health Insurance,27500,Accepted
+1046,2/5/2025,2/13/2025,Health Insurance,98000,Denied
+1046,3/4/2025,3/10/2025,Life Insurance,98000,In Progress
+1051,1/13/2025,1/15/2025,Casualty Insurance,12500,In Progress
+1051,3/10/2025,4/3/2025,Casualty Insurance,12500,In Progress
+1056,10/16/2024,11/8/2024,Health Insurance,65000,Denied
+1056,10/29/2024,11/21/2024,Auto Insurance,65000,Denied
+1061,10/29/2024,11/12/2024,Auto Insurance,52500,Accepted
+1061,3/24/2025,4/12/2025,Casualty Insurance,52500,Accepted
+1066,4/2/2025,4/15/2025,Life Insurance,35000,Denied
+1066,4/9/2025,4/24/2025,ReInsurance,35000,In Progress
+1071,11/3/2024,11/26/2024,Life Insurance,75000,In Progress
+1071,11/8/2024,11/16/2024,Casualty Insurance,75000,Denied
+1076,2/12/2025,3/1/2025,Auto Insurance,42000,In Progress
+1076,4/3/2025,4/14/2025,Property Insurance,42000,In Progress
+1081,10/21/2024,11/4/2024,Life Insurance,20000,Denied
+1081,3/19/2025,4/11/2025,Auto Insurance,20000,Denied
+1086,11/6/2024,11/29/2024,Health Insurance,30000,Denied
+1086,2/9/2025,2/22/2025,Auto Insurance,30000,In Progress
+1091,11/11/2024,11/27/2024,ReInsurance,30000,Denied
+1091,12/5/2024,12/13/2024,Casualty Insurance,30000,In Progress
+1096,12/29/2024,1/18/2025,Auto Insurance,28000,Denied
+1096,2/18/2025,2/22/2025,Auto Insurance,28000,Denied
+1101,12/25/2024,1/16/2025,Life Insurance,45000,Accepted
+1101,1/7/2025,1/29/2025,ReInsurance,45000,Denied
+1106,3/27/2025,4/2/2025,Auto Insurance,49000,Denied
+1106,4/4/2025,4/16/2025,ReInsurance,49000,Accepted
+1111,4/14/2025,4/27/2025,Property Insurance,7500,Accepted
+1111,4/17/2025,4/27/2025,Auto Insurance,7500,In Progress
+1116,11/20/2024,11/21/2024,Casualty Insurance,22500,Denied
+1116,3/19/2025,4/10/2025,Property Insurance,22500,Accepted
+1121,1/1/2025,1/19/2025,Health Insurance,75000,Denied
+1121,4/7/2025,4/27/2025,Auto Insurance,75000,In Progress
+1126,10/21/2024,10/29/2024,Property Insurance,63000,Denied
+1126,3/14/2025,3/26/2025,Property Insurance,63000,Accepted
+1131,1/6/2025,1/22/2025,Casualty Insurance,24000,In Progress
+1131,2/23/2025,2/28/2025,Property Insurance,24000,Accepted
+1136,12/14/2024,12/23/2024,Life Insurance,35000,Accepted
+1136,12/15/2024,1/9/2025,ReInsurance,35000,Denied
+1141,12/12/2024,12/17/2024,Casualty Insurance,65000,Denied
+1141,1/20/2025,2/12/2025,ReInsurance,65000,In Progress
+1146,2/15/2025,3/10/2025,Property Insurance,98000,Denied
+1146,2/19/2025,2/28/2025,Health Insurance,98000,Accepted
+1151,12/14/2024,12/24/2024,Auto Insurance,98000,In Progress
+1151,3/9/2025,3/15/2025,Health Insurance,98000,Denied
+1156,11/9/2024,11/25/2024,Life Insurance,49000,In Progress
+1156,12/28/2024,1/21/2025,Health Insurance,49000,Accepted
+1161,10/12/2024,11/3/2024,Health Insurance,65000,In Progress
+1161,4/5/2025,4/9/2025,Property Insurance,65000,In Progress
+1166,11/8/2024,11/13/2024,ReInsurance,37500,Accepted
+1166,1/24/2025,2/12/2025,ReInsurance,37500,In Progress
+1171,12/8/2024,12/19/2024,Auto Insurance,82500,Accepted
+1171,4/19/2025,5/8/2025,Health Insurance,82500,In Progress
+1176,3/17/2025,3/24/2025,Property Insurance,56000,In Progress
+1176,4/3/2025,4/12/2025,Health Insurance,56000,Denied
+1181,11/8/2024,11/12/2024,Auto Insurance,60000,Denied
+1181,11/16/2024,11/29/2024,Casualty Insurance,60000,Accepted
+1186,12/15/2024,1/2/2025,Life Insurance,7500,In Progress
+1186,3/26/2025,4/19/2025,Casualty Insurance,7500,Denied
+1191,10/28/2024,11/12/2024,Health Insurance,45000,Accepted
+1191,4/8/2025,4/9/2025,Property Insurance,45000,Accepted
+1196,10/23/2024,11/4/2024,Casualty Insurance,39000,Denied
+1196,11/1/2024,11/18/2024,ReInsurance,39000,Accepted
+1201,1/3/2025,1/10/2025,Auto Insurance,12000,Denied
+1201,3/9/2025,3/13/2025,Casualty Insurance,12000,In Progress
+1206,12/2/2024,12/11/2024,Health Insurance,15000,In Progress
+1206,2/17/2025,2/23/2025,Auto Insurance,15000,Denied
+1211,11/29/2024,12/11/2024,Health Insurance,56000,Denied
+1211,3/9/2025,3/13/2025,Health Insurance,56000,Accepted
+1216,11/28/2024,12/12/2024,ReInsurance,63000,Denied
+1216,3/26/2025,4/18/2025,Life Insurance,63000,Accepted
+1221,12/23/2024,12/27/2024,Health Insurance,18000,Denied
+1221,2/15/2025,2/23/2025,Health Insurance,18000,In Progress
+1226,11/18/2024,11/23/2024,Life Insurance,33000,In Progress
+1226,1/14/2025,1/26/2025,ReInsurance,33000,In Progress
+1231,1/26/2025,1/27/2025,Casualty Insurance,7500,Denied
+1231,3/28/2025,4/12/2025,Casualty Insurance,7500,Denied
+1236,2/11/2025,3/2/2025,ReInsurance,9000,Accepted
+1236,4/1/2025,4/12/2025,Health Insurance,9000,Accepted
+1241,10/27/2024,11/10/2024,Life Insurance,7500,Accepted
+1241,12/17/2024,1/2/2025,ReInsurance,7500,In Progress
+1246,10/13/2024,10/28/2024,Property Insurance,30000,Denied
+1246,3/3/2025,3/23/2025,Auto Insurance,30000,Denied
+1251,10/13/2024,10/25/2024,Life Insurance,20000,Accepted
+1251,4/9/2025,4/21/2025,ReInsurance,20000,In Progress
+1256,11/28/2024,12/22/2024,Auto Insurance,30000,In Progress
+1256,12/15/2024,12/29/2024,Auto Insurance,30000,In Progress
+1261,2/13/2025,2/25/2025,Casualty Insurance,45000,Accepted
+1261,3/12/2025,3/17/2025,Life Insurance,45000,Accepted
+1266,3/11/2025,3/15/2025,Casualty Insurance,52500,In Progress
+1266,4/16/2025,5/10/2025,Auto Insurance,52500,Denied
+1271,12/15/2024,12/29/2024,Property Insurance,25000,Denied
+1271,1/11/2025,1/20/2025,Health Insurance,25000,Accepted
+1276,10/17/2024,10/23/2024,Property Insurance,45000,Accepted
+1276,12/20/2024,12/25/2024,Health Insurance,45000,Denied
+1281,2/22/2025,3/8/2025,Life Insurance,35000,In Progress
+1281,2/28/2025,3/17/2025,Life Insurance,35000,Denied
+1286,2/4/2025,2/18/2025,Life Insurance,42000,Denied
+1286,4/14/2025,4/24/2025,ReInsurance,42000,Denied
+1291,12/12/2024,1/5/2025,Auto Insurance,22500,In Progress
+1291,4/9/2025,4/28/2025,ReInsurance,22500,Denied
+1296,2/9/2025,2/13/2025,Health Insurance,56000,In Progress
+1296,2/13/2025,3/1/2025,Auto Insurance,56000,Denied
+1301,11/1/2024,11/18/2024,ReInsurance,105000,Accepted
+1301,2/19/2025,2/27/2025,Health Insurance,105000,Denied
+1306,11/5/2024,11/25/2024,Life Insurance,15000,Accepted
+1306,1/19/2025,1/22/2025,Casualty Insurance,15000,Denied
+1311,12/15/2024,1/10/2025,Auto Insurance,27500,Denied
+1311,1/5/2025,1/27/2025,ReInsurance,27500,Denied
+1316,1/15/2025,1/20/2025,Casualty Insurance,20000,Accepted
+1316,3/20/2025,3/23/2025,Health Insurance,20000,Accepted
+1321,11/17/2024,11/28/2024,Life Insurance,77000,Denied
+1321,12/16/2024,12/24/2024,Health Insurance,77000,Accepted
+1326,3/16/2025,3/24/2025,Property Insurance,75000,Accepted
+1326,3/28/2025,4/16/2025,Casualty Insurance,75000,In Progress
+1331,11/29/2024,12/2/2024,Casualty Insurance,77000,Accepted
+1331,1/5/2025,1/16/2025,Casualty Insurance,77000,Accepted
+1336,10/12/2024,10/23/2024,Property Insurance,12500,Denied
+1336,1/20/2025,2/3/2025,Auto Insurance,65700,Accepted
+1341,12/16/2024,1/6/2025,Casualty Insurance,39000,Accepted
+1341,3/11/2025,3/27/2025,Property Insurance,39000,Accepted
+1346,11/6/2024,11/12/2024,Life Insurance,84000,Accepted
+1346,12/8/2024,12/22/2024,Health Insurance,84000,Accepted
+1351,12/14/2024,12/23/2024,ReInsurance,105000,Denied
+1351,12/29/2024,1/2/2025,ReInsurance,105000,Accepted
+1356,10/18/2024,11/4/2024,Casualty Insurance,84000,Accepted
+1356,4/9/2025,4/26/2025,Property Insurance,84000,Accepted
+1361,12/4/2024,12/6/2024,Health Insurance,56000,Accepted
+1361,2/4/2025,2/13/2025,Life Insurance,56000,Denied
+1366,12/24/2024,1/1/2025,Life Insurance,60000,In Progress
+1366,2/28/2025,3/16/2025,ReInsurance,60000,In Progress
+1371,1/17/2025,2/6/2025,Health Insurance,25000,In Progress
+1371,1/28/2025,1/29/2025,ReInsurance,25000,In Progress
+1376,10/25/2024,11/4/2024,Life Insurance,52500,In Progress
+1376,2/16/2025,3/3/2025,Auto Insurance,52500,In Progress
+1381,11/26/2024,12/3/2024,Casualty Insurance,33000,In Progress
+1381,3/28/2025,4/2/2025,Health Insurance,33000,In Progress
+1386,11/11/2024,11/15/2024,Property Insurance,65000,Denied
+1386,1/16/2025,2/1/2025,ReInsurance,65000,In Progress
+1391,1/11/2025,1/12/2025,Property Insurance,7500,Denied
+1391,3/10/2025,3/13/2025,ReInsurance,7500,In Progress
+1396,12/11/2024,12/24/2024,ReInsurance,40000,In Progress
+1396,12/19/2024,12/29/2024,Health Insurance,40000,In Progress
+1401,12/8/2024,12/22/2024,ReInsurance,63000,In Progress
+1401,4/6/2025,4/26/2025,ReInsurance,63000,Denied
+1406,12/14/2024,12/26/2024,Auto Insurance,28000,Accepted
+1406,2/8/2025,3/3/2025,Health Insurance,28000,Accepted
+1411,11/3/2024,11/25/2024,ReInsurance,70000,Denied
+1411,3/12/2025,4/1/2025,Health Insurance,70000,Accepted
+1416,11/17/2024,11/18/2024,Life Insurance,63000,Accepted
+1416,2/17/2025,3/5/2025,Auto Insurance,63000,Denied
+1421,2/20/2025,3/14/2025,ReInsurance,25000,Accepted
+1421,3/20/2025,3/28/2025,ReInsurance,25000,Denied
+1426,11/20/2024,11/22/2024,Auto Insurance,56000,In Progress
+1426,11/27/2024,12/8/2024,Property Insurance,56000,Accepted
+1431,12/2/2024,12/18/2024,Health Insurance,22500,Denied
+1431,3/15/2025,3/26/2025,Casualty Insurance,22500,Accepted
+1436,1/25/2025,2/11/2025,Property Insurance,65000,In Progress
+1436,3/28/2025,4/8/2025,Auto Insurance,65000,Denied
+1441,1/3/2025,1/26/2025,Auto Insurance,45000,Denied
+1441,1/29/2025,1/29/2025,Property Insurance,45000,Accepted
+1446,2/17/2025,2/21/2025,Property Insurance,17500,Accepted
+1446,2/27/2025,3/7/2025,Property Insurance,17500,Denied
+1451,1/6/2025,1/20/2025,Auto Insurance,42000,Accepted
+1451,1/27/2025,2/7/2025,Casualty Insurance,42000,In Progress
+1456,10/21/2024,11/4/2024,Health Insurance,28000,Denied
+1456,11/15/2024,11/23/2024,Property Insurance,28000,In Progress
+1461,12/7/2024,12/14/2024,Auto Insurance,105000,Denied
+1461,1/15/2025,1/20/2025,Property Insurance,105000,Accepted
+1466,12/23/2024,1/5/2025,Casualty Insurance,60000,Denied
+1466,2/20/2025,3/10/2025,Casualty Insurance,60000,In Progress
+1471,11/3/2024,11/25/2024,Auto Insurance,22500,In Progress
+1471,1/29/2025,2/8/2025,Health Insurance,22500,Accepted
+1476,3/19/2025,4/10/2025,Auto Insurance,82500,Denied
+1476,4/19/2025,4/22/2025,Property Insurance,82500,In Progress
+1481,12/1/2024,12/7/2024,Health Insurance,12500,Denied
+1481,3/28/2025,4/3/2025,Life Insurance,12500,In Progress
+1486,1/22/2025,2/14/2025,ReInsurance,70000,Denied
+1486,2/28/2025,3/1/2025,Health Insurance,70000,Accepted
+1491,2/20/2025,3/14/2025,Life Insurance,35000,Accepted
+1491,3/25/2025,4/8/2025,Property Insurance,35000,In Progress
+1496,10/27/2024,11/13/2024,Life Insurance,97500,Denied
+1496,3/26/2025,3/27/2025,Health Insurance,97500,Denied
+1501,4/6/2025,4/8/2025,Health Insurance,20000,Accepted
+1501,4/11/2025,5/6/2025,Life Insurance,20000,Denied
+1506,10/11/2024,11/4/2024,Health Insurance,22500,Denied
+1506,3/27/2025,4/10/2025,Property Insurance,22500,Denied
+1511,12/8/2024,12/26/2024,Auto Insurance,20000,Denied
+1511,4/19/2025,4/20/2025,Health Insurance,20000,Accepted
+1516,11/15/2024,12/3/2024,Casualty Insurance,27500,Denied
+1516,4/6/2025,4/26/2025,Casualty Insurance,27500,In Progress
+1521,2/28/2025,3/20/2025,Auto Insurance,60000,Denied
+1521,3/2/2025,3/19/2025,Property Insurance,60000,Denied
+1526,11/29/2024,12/12/2024,Property Insurance,27500,Denied
+1526,1/3/2025,1/28/2025,ReInsurance,27500,Denied
+1531,11/5/2024,11/25/2024,Property Insurance,63000,Denied
+1531,4/20/2025,4/28/2025,Health Insurance,63000,In Progress
+1536,11/12/2024,12/2/2024,Life Insurance,49000,Accepted
+1536,11/15/2024,11/19/2024,Auto Insurance,49000,Accepted
+1541,12/1/2024,12/21/2024,ReInsurance,97500,In Progress
+1541,2/5/2025,2/28/2025,Health Insurance,97500,Accepted
+1546,3/24/2025,4/1/2025,Property Insurance,55000,In Progress
+1546,3/27/2025,4/4/2025,ReInsurance,55000,Accepted
+1551,2/23/2025,3/3/2025,ReInsurance,15000,In Progress
+1551,3/21/2025,4/10/2025,Auto Insurance,15000,Denied
+1556,10/22/2024,10/29/2024,ReInsurance,70000,In Progress
+1556,3/9/2025,3/14/2025,Auto Insurance,70000,Accepted
+1561,12/8/2024,12/23/2024,Life Insurance,20000,Denied
+1561,1/14/2025,2/5/2025,Health Insurance,20000,Denied
+1566,10/18/2024,11/4/2024,Life Insurance,12500,Accepted
+1566,4/11/2025,4/23/2025,Health Insurance,12500,In Progress
+1571,12/4/2024,12/26/2024,Life Insurance,10000,Accepted
+1571,12/8/2024,12/21/2024,Life Insurance,10000,Accepted
+1576,10/14/2024,11/4/2024,Casualty Insurance,32500,Accepted
+1576,12/11/2024,12/18/2024,Life Insurance,32500,In Progress
+1581,10/15/2024,10/26/2024,Life Insurance,33000,Denied
+1581,11/9/2024,11/19/2024,Life Insurance,33000,Denied
+1586,11/10/2024,11/11/2024,Health Insurance,42000,Denied
+1586,3/6/2025,3/28/2025,Health Insurance,42000,Denied
+1591,11/21/2024,12/4/2024,Auto Insurance,90000,In Progress
+1591,2/13/2025,2/20/2025,Casualty Insurance,90000,In Progress
+1596,10/29/2024,11/18/2024,Property Insurance,7500,In Progress
+1596,12/2/2024,12/18/2024,Auto Insurance,7500,In Progress
+1597,2/12/2025,2/16/2025,Health Insurance,7500,Accepted
+1598,4/9/2025,4/17/2025,Auto Insurance,22500,Denied
+1599,3/23/2025,4/12/2025,Property Insurance,75000,In Progress
+1600,1/29/2025,2/6/2025,ReInsurance,63000,Denied
+1601,10/25/2024,11/17/2024,Health Insurance,24000,In Progress
+1602,2/21/2025,3/4/2025,ReInsurance,35000,Accepted
+1603,1/27/2025,2/21/2025,Health Insurance,65000,In Progress
+1604,11/14/2024,11/24/2024,ReInsurance,98000,Denied
+1605,10/27/2024,11/4/2024,Casualty Insurance,98000,Denied
+1606,4/9/2025,5/2/2025,ReInsurance,49000,In Progress
+1607,3/11/2025,3/26/2025,Property Insurance,65000,In Progress
+1608,2/15/2025,2/28/2025,Casualty Insurance,37500,Accepted
+1609,2/6/2025,2/27/2025,Property Insurance,82500,In Progress
+1610,12/23/2024,1/15/2025,ReInsurance,56000,In Progress
+1611,4/11/2025,5/6/2025,Health Insurance,60000,Denied
+1612,12/7/2024,12/28/2024,Life Insurance,7500,Denied
+1613,12/1/2024,12/21/2024,Property Insurance,45000,Denied
+1614,2/26/2025,3/3/2025,Auto Insurance,39000,In Progress
+1615,11/4/2024,11/12/2024,Life Insurance,12000,Denied
+1616,10/26/2024,11/6/2024,Health Insurance,15000,In Progress
+1617,12/18/2024,12/29/2024,Property Insurance,56000,In Progress
+1618,2/24/2025,3/16/2025,Auto Insurance,63000,Accepted
+1619,3/18/2025,4/3/2025,Life Insurance,18000,Accepted
+1620,1/17/2025,1/19/2025,Life Insurance,33000,In Progress
+1621,2/19/2025,2/28/2025,Casualty Insurance,7500,Denied
+1622,10/14/2024,10/27/2024,ReInsurance,9000,In Progress
+1623,4/15/2025,4/23/2025,Life Insurance,7500,In Progress
+1624,2/6/2025,2/18/2025,Casualty Insurance,30000,In Progress
+1625,12/21/2024,1/16/2025,ReInsurance,20000,Denied
+1626,12/8/2024,12/17/2024,Health Insurance,30000,Denied
+1627,1/21/2025,1/24/2025,Auto Insurance,45000,Denied
+1628,4/9/2025,4/28/2025,Casualty Insurance,52500,In Progress
+1629,2/28/2025,3/5/2025,Auto Insurance,25000,Accepted
+1630,12/20/2024,1/13/2025,Auto Insurance,45000,Denied
+1631,3/28/2025,4/12/2025,Auto Insurance,35000,In Progress
+1632,12/3/2024,12/11/2024,Auto Insurance,42000,Accepted
+1633,4/11/2025,5/1/2025,Casualty Insurance,22500,Accepted
+1634,4/8/2025,4/15/2025,Life Insurance,56000,In Progress
+1635,3/8/2025,4/1/2025,Casualty Insurance,105000,Accepted
+1636,1/17/2025,1/26/2025,Life Insurance,15000,Denied
+1637,11/15/2024,11/16/2024,Health Insurance,27500,In Progress
+1638,12/25/2024,12/29/2024,Auto Insurance,20000,Accepted
+1639,2/21/2025,3/6/2025,Property Insurance,77000,Denied
+1640,11/28/2024,11/29/2024,Auto Insurance,75000,Denied
+1641,3/28/2025,4/19/2025,Auto Insurance,77000,In Progress
+1642,11/14/2024,12/6/2024,Health Insurance,12500,Accepted
+1643,10/20/2024,10/26/2024,Casualty Insurance,39000,Denied
+1644,2/25/2025,3/5/2025,Casualty Insurance,84000,Denied
+1645,1/23/2025,2/17/2025,Life Insurance,105000,Denied
+1646,2/1/2025,2/9/2025,Property Insurance,84000,Denied
+1647,2/23/2025,3/17/2025,Auto Insurance,56000,Denied
+1648,3/24/2025,4/7/2025,ReInsurance,60000,Accepted
+1649,4/7/2025,4/14/2025,Life Insurance,25000,In Progress
+1650,11/21/2024,12/11/2024,ReInsurance,52500,In Progress
+1651,12/25/2024,1/17/2025,Property Insurance,33000,In Progress
+1652,10/15/2024,10/29/2024,Property Insurance,65000,In Progress
+1653,2/20/2025,3/9/2025,Casualty Insurance,7500,Denied
+1654,2/9/2025,3/4/2025,Life Insurance,40000,In Progress
+1655,11/26/2024,12/1/2024,Life Insurance,63000,Denied
+1656,2/7/2025,2/15/2025,Casualty Insurance,28000,Accepted
